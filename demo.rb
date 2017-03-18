@@ -1,0 +1,1 @@
+puts gets.split(&:to_i).map().inject(&:+)
